@@ -75,6 +75,11 @@ h2 {
   margin: 10px auto;
 }
 
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 header {
   line-height: 1.5;
 }
